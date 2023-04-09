@@ -16,3 +16,21 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.value{
+  display: flex;
+  font-family: Helvetica Neue;
+  font-size: 20;
+  justify-content: center;
+  font-weight: 900;
+}
+
+.timer {
+  display: flex;
+}
+
+.label{
+  padding: 2px;
+  font-family: Ubuntu;
+  font-weight: 400;
+}
